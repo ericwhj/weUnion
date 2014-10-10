@@ -1,4 +1,4 @@
-Enter file contents here
-<javascript>
 
+<javascript>
+alert("fff")
 </javascript>
